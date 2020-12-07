@@ -3,6 +3,11 @@
 ## Blog posts :books:
 
 <!-- BLOG-POST-LIST:START -->
+- [30 días de mapas, mis apuntes](/2020/12/01/30daymap/)
+- [Agregando utilidades al blog](/2020/10/12/agregando-utilidades-hugo/)
+- [Visualización con highcharter: Brecha de género en carreras tecnológicas](/2020/05/13/highcharter-brechas/)
+- [Música, datos y gráficos](/2020/05/12/musica-datos-y-graficos/)
+- [¡Hola blogdown!](/2019/09/24/hola-blogdown/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
