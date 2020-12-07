@@ -12,3 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://github.com/sporella/blog/blob/97e1d76aaf8d8ff02c30fc3331134b133eeaed91/public/post/index.xml"
+
