@@ -1,6 +1,7 @@
 ### Hola, soy un gato :scream_cat:
 
-# Blog posts
+## Blog posts :books:
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
