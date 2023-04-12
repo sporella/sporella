@@ -1,4 +1,4 @@
-## Hola :octocat:
+## Hola  :octocat:
 
 - :sunflower: Ingeniera Agrónoma y Magíster en Recursos Naturales
 - :bar_chart: Trabajo como Científica de Datos. 
@@ -17,7 +17,7 @@
 <!-- BLOG-POST-LIST:END -->
 <p align="left"><a href="https://sporella.netlify.app/post/">▶️ Más posts</a></p>
 
-## Repositorios por categorías
+## Repositorios por categorías  :mag:
 
 <table>
 	<tr>
