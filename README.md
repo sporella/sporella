@@ -15,7 +15,7 @@
 - [Visualización con highcharter: Brecha de género en carreras tecnológicas](https://sporella.xyz/2020/05/13/highcharter-brechas/)
 - [Música, datos y gráficos](https://sporella.xyz/2020/05/12/musica-datos-y-graficos/)
 <!-- BLOG-POST-LIST:END -->
-<p align="right"><a href="https://sporella.netlify.app/post/">▶️ Más posts</a></p>
+<p align="left"><a href="https://sporella.netlify.app/post/">▶️ Más posts</a></p>
 
 ## Repositorios por categorías
 
