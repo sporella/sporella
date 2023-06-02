@@ -28,7 +28,7 @@
 			<a href="https://github.com/sporella/indice/blob/main/visualizacion.md">:bar_chart: Visualización de Datos</a>
 		</td>
     <td>
-			<a href="https://github.com/sporella/indice/blob/main/r.md"><img src="https://www.r-project.org/Rlogo.png" width="25" height="25">&nbsp;&nbsp;R</a>
+			<a href="https://github.com/sporella/indice/blob/main/r.md"><img src="https://www.r-project.org/Rlogo.png" width="25" height="25">&nbsp;&nbsp;&nbsp;R</a>
 		</td>
     <td>
 			<a href="https://github.com/sporella/indice/blob/main/python.md"><img src="https://cdn3.emoji.gg/emojis/1887_python.png" width="25" height="25"> Python</a>
