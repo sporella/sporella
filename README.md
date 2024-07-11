@@ -1,7 +1,7 @@
 ## Hola  :octocat:
 
 - :sunflower: Ingeniera Agrónoma y Magíster en Recursos Naturales
-- :bar_chart: Trabajo como Científica de Datos. 
+- :bar_chart: Trabajo como Científica de Datos / Research Software Engineer. 
 - 🗺️ Me gustan los datos espaciales, los mapas, la visualización de datos, la programación y enseñar. 
 - :purple_heart: Soy parte de [RLadies Santiago](https://github.com/rladieschile) y :snake: [PyLadies Valparaíso](https://twitter.com/PyLadiesValpo)
 - :blue_book: Soy [Instructora de Tidyverse](https://education.rstudio.com/trainers/people/orellana+stephanie/) certificada por RStudio.
